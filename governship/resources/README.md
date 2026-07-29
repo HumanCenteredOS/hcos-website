@@ -1,48 +1,33 @@
-# HCOS™ Governship Website Package
+---
+title: "HCOS™ Governship Resources"
+description: "Frameworks, principles, guides, and assessment tools for HCOS™ Governship."
+---
 
-This package contains a concise public-facing Governship page and supporting resource-summary pages for the HCOS website.
+# HCOS™ Governship Resources
 
-## Recommended GitHub Placement
+## What Do We Believe?
 
-```text
-hcos-governance/
-├── governship-framework/
-│   ├── HCOS_Governship_Framework.md
-│   ├── GOVERNSHIP_PRINCIPLES.md
-│   ├── GOVERNSHIP_GLOSSARY.md
-│   ├── HCOS_Analysis_Accountability_and_Stewardship_Framework.md
-│   ├── HCOS_Decision_Guide.md
-│   ├── HCOS_Decision_Worksheet.md
-│   ├── GOVERNSHIP_MATURITY_MODEL.md
-│   ├── GOVERNSHIP_MATURITY_ASSESSMENT.md
-│   └── CONTINUOUS_IMPROVEMENT_GUIDE.md
-└── website/
-    └── governship/
-        ├── index.md
-        └── resources/
-            ├── README.md
-            ├── governship-principles.md
-            ├── decision-approach.md
-            └── maturity-and-assessment.md
-```
+- [HCOS™ Governship Framework](../../../governship-framework/HCOS_Governship_Framework.md)
+- [HCOS™ Governship Principles](../../../governship-framework/GOVERNSHIP_PRINCIPLES.md)
+- [HCOS™ Governship Glossary](../../../governship-framework/GOVERNSHIP_GLOSSARY.md)
 
-## Website Navigation
+## How Do We Decide?
 
-Recommended primary navigation:
+- [Analysis, Accountability, and Stewardship Framework](../../../governship-framework/HCOS_Analysis_Accountability_and_Stewardship_Framework.md)
+- [HCOS™ Decision Guide](../../../governship-framework/HCOS_Decision_Guide.md)
+- [HCOS™ Decision Worksheet](../../../governship-framework/HCOS_Decision_Worksheet.md)
 
-```text
-Framework
-└── Governship
-```
+## How Are We Improving?
 
-Recommended page title:
+- [HCOS™ Governship Maturity Model](../../../governship-framework/GOVERNSHIP_MATURITY_MODEL.md)
+- [HCOS™ Governship Maturity Assessment](../../../governship-framework/GOVERNSHIP_MATURITY_ASSESSMENT.md)
+- [HCOS™ Continuous Improvement Guide](../../../governship-framework/CONTINUOUS_IMPROVEMENT_GUIDE.md)
 
-```text
-HCOS™ Governship | Governing Today, Stewarding Tomorrow
-```
+## Website Summaries
 
-## Link Note
+- [Governship Principles](governship-principles.md)
+- [Decision Approach](decision-approach.md)
+- [Maturity and Assessment](maturity-and-assessment.md)
 
-The included links are relative paths based on the repository structure above. Adjust them if the website content and governance documents are stored in different repositories.
+[Return to Governship](../index.md)
 
-The main page stays concise, while detailed material remains available through linked governance documents

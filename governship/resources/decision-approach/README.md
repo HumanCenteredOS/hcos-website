@@ -33,3 +33,41 @@ Stewardship considers what should change, what should remain, what should be mon
 
 [Return to Governship](../index.md)
 
+---
+
+# Put the Decision Approach into Practice
+
+The HCOS™ Decision Approach introduces the philosophy behind thoughtful, human-centered decision-making.
+
+The resources below help translate that philosophy into practical application.
+
+## Practical Resources
+
+### 📘 [HCOS™ Decision Guide](HCOS_Decision_Guide.md)
+
+A practical reference that summarizes the Decision Approach and provides guiding questions for real-world decisions.
+
+---
+
+### 📝 [HCOS™ Decision Worksheet](HCOS_Decision_Worksheet.md)
+
+A structured template for documenting significant decisions, evidence, accountability, and stewardship actions.
+
+---
+
+### ✅ [HCOS™ Decision Checklist](HCOS_Decision_Checklist.md)
+
+A concise review tool that can be used during meetings, governance reviews, and project planning.
+
+---
+
+### 💡 [Decision Examples](HCOS_Decision_Examples.md)
+
+Illustrative examples demonstrating how the HCOS Decision Approach can be applied across healthcare, AI, leadership, education, business, and nonprofit organizations.
+
+---
+
+### ❓ [Decision FAQ](HCOS_Decision_FAQ.md)
+
+Frequently asked questions about applying the HCOS Decision Approach.
+
